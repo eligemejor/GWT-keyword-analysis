@@ -1,4 +1,3 @@
-
 Google Webmaster Tools Search Referral Analysis
 ===============================================
 
@@ -6,7 +5,7 @@ This code analyzes search referral data from Google Webmaster Tools.
 
 To run the analysis on your site, first download a data set of search data:
 
-1. Go to "Traffic > Search Queries"
+1. Go to "Traffic > Search Queries" (for example https://www.google.com/webmasters/tools/top-search-queries?siteUrl=http%3A%2F%2Fwww.example.com%2F)
 2. Select a date range
 3. Select "Show [500] rows"
 4. In the URL, replace "grid.s=500" with "grid.s=10000" (or some very large number)
